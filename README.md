@@ -1,2 +1,1 @@
-# blockax.github.io
-blockax website
+blockax.github.io
